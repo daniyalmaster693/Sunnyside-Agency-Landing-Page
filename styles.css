@@ -36,7 +36,6 @@ body {
   font-family: "Barlow";
   font-size: 16px;
   font-weight: 400;
-  color: white;
 }
 
 .navitem a:visited {
@@ -45,6 +44,7 @@ body {
 
 .navitem a:link {
   text-decoration: none;
+  color: white;
 }
 
 .contact {
