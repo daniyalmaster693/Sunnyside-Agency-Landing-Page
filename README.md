@@ -7,8 +7,8 @@ A basic HTML, CSS challenge from Frontend Mentor. This is the solution to the ch
 
 <h2> Links </h2>
 
-<li> Link to solution:  </li>
-<li> Link to live demo:  </li>
+<li> Link to solution: https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-solution-zZkldBiKdH </li>
+<li> Link to live demo: https://blaze4884.github.io/Sunnyside-Agency-Landing-Page/ </li>
 
 <h2> What have I learned </h2>
 
